@@ -57,4 +57,12 @@ Remove Left Recursion
 ![remove left recursion](https://user-images.githubusercontent.com/69623096/95324840-f4924580-08bd-11eb-9642-7414b3bf2919.PNG)
 
 **************************************************************************************************************************************************
+**************************************************
+Operator precedence parsing
+
+![oper  prseden  parsing](https://user-images.githubusercontent.com/69623096/95972167-beaa0f80-0e2f-11eb-8695-1bd5a8044dfb.PNG)
+
+
+*************************************************
+
 
